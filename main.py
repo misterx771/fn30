@@ -1,5 +1,6 @@
 from telebot import TeleBot
 from telebot.types import Message
+from buttons import menu
 
 TOKEN = "7373419973:AAEYMy7UbcQF0fMi_WBjdNypLUIye3iZD9A"
 
